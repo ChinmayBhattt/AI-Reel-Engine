@@ -5,7 +5,7 @@ motion graphics, captions, SFX and music — rendered entirely as code.
 **1080×1920, 30fps, mastered to −14 LUFS. Zero manual video editing.**
 
 Built on [Remotion](https://remotion.dev) (video as React) + Python build
-scripts + Whisper word-timings, driven by a coding agent.
+scripts + Whisper word-timings, driven by a coding agent. 
 
 ---
 
