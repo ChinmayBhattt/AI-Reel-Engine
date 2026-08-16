@@ -8,7 +8,7 @@ Built on [Remotion](https://remotion.dev) (video as React) + Python build
 scripts + Whisper word-timings, driven by a coding agent. 
 
 ---
-
+ 
 ## Give this to an agent
 
 Point any coding agent (Claude Code, Codex, Cursor…) at this folder and say:
